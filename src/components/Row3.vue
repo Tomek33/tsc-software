@@ -7,16 +7,20 @@
         </div>
 
         <div class="col-xs-12 col-sm-6 pb-5 px-2">
-            <span class="my-font-1">
-                Lorem ipsum dolor sit amet consectetur 
-            </span>
-            <br />
-            <span class="my-font-2">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?
-            </span>
-            <br />
-            <div class="py-2">
-                <button class="btn btn-dark" style="width: 170px;">Learn More</button>
+            <div class="h-100 d-flex align-items-center">
+                <div>
+                    <span class="my-font-1">
+                        Lorem ipsum dolor sit amet consectetur 
+                    </span>
+                    <br />
+                    <span class="my-font-2">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?
+                    </span>
+                    <br />
+                    <div class="py-2">
+                        <button class="btn btn-dark" style="width: 170px;">Learn More</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
